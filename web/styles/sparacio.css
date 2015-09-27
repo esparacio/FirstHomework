@@ -7,12 +7,13 @@
     Author     : Elena
 */
 
-html{
+html {
   background:grey;
     
     
 }
-body{
+
+body {
     width: 65%;
     margin-left:15%;
     padding-top:2%;
@@ -22,69 +23,71 @@ body{
     font-family:  Arial, Verdana, sans-serif;
 }
 
-.image{
+.image {
     padding-bottom: 0.5%;
     padding-left: 0.5%;
     padding-right: 0.5%;
 }
 
-.date{
+.date {
     float:right;
     padding-right:5%;
 }
 
-.imagdate{
+.imagdate {
     float:right;
     padding-right:5%;
     color:red;
 }
 
-.imaginary{
+.imaginary {
     color:red;
     padding-bottom:0.5%;
 }
 
 
-section{
+section {
     padding-bottom:1%;
 }
+
 h1{
     font-size:1.5em;
     text-align:center;
     padding-right:8%;
 }
 
-h2{
+h2 {
     margin: 0 auto;
     padding-bottom: 0.5%;
     font-size:1em;
     text-transform:uppercase;
     text-decoration:underline;
 }
-h3{
+
+h3 {
     margin: 0 auto;
     font-size:1em;
 }
 
-h4{
+h4 {
     margin:0 auto;
     font-style:italic;
 }
 
-ul{
+ul {
     margin: 0.5%;
 }
 
-nav{
+nav {
     text-align:center;
     padding-right:8%;
 }
 
-nav li{
+nav li {
     display:inline;
    
 }
 
-p{
+p {
     margin: 0 auto;
 }
